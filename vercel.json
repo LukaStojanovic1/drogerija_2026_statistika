@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/sales_analytics_2026_v2_updated.html" }
+  ]
+}
